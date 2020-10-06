@@ -1,0 +1,99 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #f4f7f6;
+}
+
+.b-nav{
+    font-weight: 700;
+    font-size: 2rem;
+    color: #2955a2;
+}
+
+.b-nav:hover{
+    color: #f97070;
+    text-decoration: none;
+}
+
+.div1{
+    position: relative;
+    width: 100%;
+    height: auto;           
+}
+
+.img-fluid{
+    display:block;
+    margin:auto;
+}
+
+.div2{
+    z-index: 2px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom: 0rem;    
+}
+
+.div2-1{
+    z-index: 1px;
+    position: absolute;
+    width: 80%;
+    height: 5.5rem;
+    background-color: #2955a2;
+    opacity: .7;
+    bottom: 0.5rem;
+    margin-left: 10%;
+}
+
+.div2-t1{
+    font-weight: 300;     
+    color: #f4f7f6;
+    font-size: 1.3rem;
+}
+
+.div2-t2{
+    font-weight: 700;        
+    color: #f4f7f6;
+    font-size: 1.5rem;
+}
+
+.rosa-section{
+    background-color: #ffdcdc;
+}
+
+.logos{
+    width: 15rem;
+}
+
+.t2{
+    color: #2955a2;    
+}
+
+.t2:hover{
+    color: #f97070;    
+}
+
+.nav-s{
+    font-size: 1rem;
+    color: #2955a2;
+    padding: 0.5rem; 
+}
+
+.nav-s:hover{
+    color: #f97070;
+    text-decoration: none;
+    padding: 0.5rem;
+}
+
+h4{
+    font-weight: 700;        
+    color: #2955a2;
+    font-size: 1.5rem;
+}
+
+.card-t{
+    color: #2955a2;
+    font-weight: 700;       
+    font-size: 1 rem;
+}
+
+
